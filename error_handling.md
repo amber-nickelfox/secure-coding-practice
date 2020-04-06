@@ -1,4 +1,6 @@
-### Error Handling and logging
+# Error Handling and logging
+
+
 
 - [ ] Do not disclose sensitive information in error responses, including system details, session identifiers
 or account information

@@ -1,4 +1,5 @@
-### Input Validations
+# Input Validations
+
 
 - [ ] Conduct all the validation on the trusted system (Ex: The server)
 - [ ] There should be centralized input validation for an application

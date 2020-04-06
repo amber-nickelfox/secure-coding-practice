@@ -1,4 +1,6 @@
-### Authentication and Password Management
+# Authentication and Password Management
+
+
 
 - [ ] Require authentication for all pages and resources, except those specifically intended to be public
 - [ ] All authentication controls must be enforced on a trusted system (e.g., The server)

@@ -1,4 +1,5 @@
-### Session Management
+# Session Management
+
 
 - [ ] Use the server or framework’s session management controls. The application should only recognize
 these session identifiers as valid
