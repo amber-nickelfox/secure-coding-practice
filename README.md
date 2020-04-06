@@ -12,4 +12,4 @@ mitigate most common software vulnerabilities.
 * [Session Management](https://github.com/amber-nickelfox/secure-coding-practice/blob/master/session_management.md)
 * [General Practice](https://github.com/amber-nickelfox/secure-coding-practice/blob/master/general_practice.md)
 
-These are bases on [OWASP](https://owasp.org/)
+These are based on [OWASP](https://owasp.org/)
