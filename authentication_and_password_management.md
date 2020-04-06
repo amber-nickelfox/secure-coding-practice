@@ -32,3 +32,5 @@ link/password
 any malicious code
 - [ ] The last use (successful or unsuccessful) of a user account should be reported to the user at their next
 successful login
+- [ ]  Never store secrets (passwords, keys, etc.) in the sources in version control
+- [ ] Never EVER store passwords in plaintext
