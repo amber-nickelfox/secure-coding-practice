@@ -9,3 +9,4 @@
 - [ ] Validation for expected data type, data range, data length
 - [ ] Validate all input against a "white" list of allowed characters, whenever possible
 - [ ] Specify proper character sets, such as UTF-8, for all sources of input
+- [ ] Password must be read only.
